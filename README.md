@@ -1,4 +1,5 @@
-### ola! Eu sou Livia Ribeiro Frteixo Sou Estudante de Analise e desenvolvimento de Sistemas!
+### Olá, Eu sou a Livia Freixo
+### Estou estudando a linguagem Python
 
 <div align="center">
   <a href="https://github.com/dsouloficial">
@@ -8,4 +9,4 @@
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/liviafreixo)
 
-### Tecnologias que eu uso no meu dia a dia 
+### Python , JavaScript  

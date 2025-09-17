@@ -1,5 +1,5 @@
 ### Olá, Eu sou a Livia Freixo
-### Estou estudando a linguagem Python
+### Estou estudando a linguagem JAVA
 
 <div align="center">
   <a href="https://github.com/dsouloficial">
@@ -9,4 +9,4 @@
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euliviafreixo)
 
-### Python , JavaScript  
+### JAVA
